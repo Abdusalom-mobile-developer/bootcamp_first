@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//This small prokect that gives some information about Dart programming language.
+
 void main() {
   runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
